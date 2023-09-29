@@ -51,3 +51,5 @@
     Es un lenguaje de programación que se utiliza para definir la presentación y el estilo de una página web escrita en un lenguaje de marcado como HTML.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+
