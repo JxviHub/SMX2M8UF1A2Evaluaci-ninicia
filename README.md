@@ -6,7 +6,7 @@ Una página web es un documento digital complejo que puede integrar y/o contener
 
 2. ¿Què es un sitio web?
 
-<span style="color:red">Un sitio web es un conjunto de páginas web relacionadas entre sí y que comparten una dirección web única.</span>
+<hl style="color:red">Un sitio web es un conjunto de páginas web relacionadas entre sí y que comparten una dirección web única.</hl>
 
 3. ¿Qué es una aplicación web?
 
