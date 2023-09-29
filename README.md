@@ -52,4 +52,4 @@
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-    ![U+200E](https://github.com/JxviHub/SMX2M8UF1A2Evaluaci-ninicia/blob/main/Captura%20de%20pantalla%202023-09-29%20162044.png "Imagen")
+       ![U+200E](https://github.com/JxviHub/SMX2M8UF1A2Evaluaci-ninicia/blob/main/Captura%20de%20pantalla%202023-09-29%20162044.png "Imagen")
