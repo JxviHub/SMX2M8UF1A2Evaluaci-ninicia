@@ -12,6 +12,7 @@
 
 6. ¿Qué es HTML ?
 
+```
 <!DOCTYPE html>
 <html lange=¨en¨>
 <head>
@@ -24,6 +25,7 @@
 
 </body>
 </html>
+```
 
 7. ¿Què es CSS?
 
